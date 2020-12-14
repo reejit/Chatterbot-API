@@ -26,7 +26,7 @@ trainer = ChatterBotCorpusTrainer(cb)
 trainer.train(
     # Uncomment each line to train from chatterbot's corpus
     # 'chatterbot.corpus.french',
-    'chatterbot.corpus.english',
+     'chatterbot.corpus.english',
     # 'chatterbot.corpus.portuguese',
     # 'chatterbot.corpus.german',
     # 'chatterbot.corpus.spanish',
