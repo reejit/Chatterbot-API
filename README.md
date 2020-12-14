@@ -6,4 +6,4 @@
 #### Host on Heroku:
 Easiest Method to host on heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pokurt/Chatterbot-API.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/reejit/Chatterbot-API.git)
