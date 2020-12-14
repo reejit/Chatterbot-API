@@ -17,8 +17,8 @@ config.read(config_file)
 
 cb = ChatBot(
     'Bot',
-    # storage_adapter='chatterbot.storage.MongoDatabaseAdapter',
-    # database_uri=DB_URL or config.get('database', 'mongo_url'),
+    storage_adapter='chatterbot.storage.MongoDatabaseAdapter',
+    database_uri=DB_URL or config.get('database', 'mongo_url'),
 )
 
 trainer = ChatterBotCorpusTrainer(cb)
